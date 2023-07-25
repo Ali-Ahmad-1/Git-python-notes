@@ -16,6 +16,8 @@ firstcar1 = car[0]
 lastcar2 = car[-1]
 print(firstcar1 + ' ' + lastcar2)
 print(firstcar1 + ' ' + lastcar2)
+print(firstcar1 + ' ' + lastcar2)
+print(firstcar1 + ' ' + lastcar2)
 
 
 
